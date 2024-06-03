@@ -21,43 +21,43 @@ repository: "aiyyra/aiyyra.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: "profile.png"
+  avatar: "profile2.jpg"
   name: "Muhammad Afiq"
   pronouns: # example: "she/her"
-  bio: "Short biography for the left-hand sidebar"
-  location: "Earth"
-  employer: "Red Brick University"
+  bio: "Artificial Intelligence student at Universiti Malaya"
+  location: "Kuala Lumpur, Malaysia"
+  employer: "Universiti Malaya"
   uri: # URL
-  email: "none@example.org"
+  email: "muhdafiq197@gmail.com"
 
   # Academic websites
   arxiv: # URL - Update with the correct link to your profile
-  googlescholar: "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar: #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory: # URL
-  orcid: "http://orcid.org/yourorcidurl"
+  orcid: #"http://orcid.org/yourorcidurl"
   semantic: # URL
-  pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed: #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate: # URL
 
   # Repositories and software development
   bitbucket: # Username - Update with your username on the site
   codepen: # Username
   dribbble: # Username
-  github: "academicpages"
+  github: "aiyyra"
   kaggle: # Username
   stackoverflow: # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
   # Social media
-  bluesky: "bsky.app" # Replace this with you Bluesky username
+  bluesky: #"bsky.app" # Replace this with you Bluesky username
   facebook: # Username
   flickr: # Username
   foursquare: # Username
   goodreads: # Username
   google_plus: # Username
   keybase: # Username
-  instagram: # Username
+  instagram: "muhdfiqq"
   lastfm: # Username
-  linkedin: # Username
+  linkedin: "muhammad-afiq-b403bb215"
   mastodon: # URL
   medium: # URL
   pinterest: # Username
