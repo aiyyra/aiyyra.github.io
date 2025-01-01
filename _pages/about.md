@@ -1,16 +1,15 @@
 ---
 permalink: /
-title: "Hello there, I'm Afiq"
+title: "Hello, you can call me Afiq!"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-A 3rd year Artificial Intelligence student at Universiti Malaya.
+Bored and raised in Malaysia.
+Hello, this is Afiq. A 3rd year Artificial Intelligence student at Universiti Malaya.
 
-For now, I'm focusing to secure an impactful intern and graduate my current programme.
+I started this blog to keep tracks on my development and progress as a promising talent in my major and as a person in life.
 
-My current interest is on AI engineering.
-
-I'm also interested in exploring other Computer Science Domains and determined to continue learning and expanding my repositories
+Keep on readings to know me at a deeper level!!
