@@ -4,10 +4,7 @@ main:
     # url: /cv/
     url: /files/resume.pdf
 
-  - title: "Portfolio"
-    url: /portfolio/
-
-  - title: "Blog Posts"
+  - title: "Blog"
     url: /year-archive/
 
   # - title: "Publications"
@@ -21,3 +18,6 @@ main:
 
   # - title: "Guide"
   #   url: /markdown/
+
+  # - title: "Portfolio"
+  #   url: /portfolio/

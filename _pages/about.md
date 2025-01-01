@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Bored and raised in Malaysia.
+Borned and raised in Malaysia.
 Hello, this is Afiq. A 3rd year Artificial Intelligence student at Universiti Malaya.
 
 I started this blog to keep tracks on my development and progress as a promising talent in my major and as a person in life.
