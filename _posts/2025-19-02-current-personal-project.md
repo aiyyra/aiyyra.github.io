@@ -45,3 +45,5 @@ However, we do run into issues regarding our resource to utilise and run an LLM 
 My Professor said he is likely to help me with the GPU and other resources, so I will update later when it happens.
 
 Thats it for now, hope this blog will continue for a long time, so i can keep track and consistent in my learning journey.
+
+> Goodbye
