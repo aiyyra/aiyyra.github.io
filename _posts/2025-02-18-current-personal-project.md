@@ -1,6 +1,6 @@
 ---
 title: "Current personal project"
-date: 2025-19-02
+date: 2025-02-18
 permalink: /posts/2025/02/current-personal-project/
 tags:
   - progress
