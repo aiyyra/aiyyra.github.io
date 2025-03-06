@@ -1,6 +1,6 @@
 ---
 title: "Finishing first project this year"
-date: 2025-03-06
+date: 2025-03-05
 permalink: /posts/2025/03/finishing-first-project-this-year/
 tags:
   - life
