@@ -1,6 +1,6 @@
 ---
 title: "A Hectic Month"
-date: 2199-04-30
+date: 2025-04-30
 permalink: /posts/2025/04/a-hectic-month/
 tags:
   - life
